@@ -9,7 +9,7 @@ It is using ATSAND21G18A microcom chip as core.
 ![IMG_8484](https://github.com/Turm-Design-Works/fub/assets/75283624/7cfb2a1e-bb16-4ba0-9779-1d95b645c9d7)
 
 # LICENSES
-- firmware and PCB :  **MIT** ( [view LICENSE](https://github.com/Turm-Design-Works/fub/blob/main/LICENSE) )  
+- **MIT** ( [view LICENSE](https://github.com/Turm-Design-Works/fub/blob/main/LICENSE) )  
 2024 Turm Design Works LLC.
 
 # How to install firmware  
