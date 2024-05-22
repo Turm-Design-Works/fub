@@ -1,0 +1,22 @@
+・Core : ATSAMD21G18A (ARM Cortex m0+)
+・Crystal : FC-135 (32.768kHz)
+・EEPROM : AT24C32E
+・Fuse : MF-NSMF050-2
+・Diode : MS18F
+・Filter Coil : SDCW3216-2-222TF
+・Regulator : LM1117GS-3.3
+・Type-C connector : 5077CR-16SMC2-BK-TR
+・DIP-SW : FR01-FR10H-ST
+・DIN(MIDI) Jack : KDJ03-5
+・6.35 TRS Jack : MJ-188LPD-8C × 4
+
+・Capacitor 100nF | dim 1608 : GRM188F11H104ZA01 × 5
+・Capacitor 10uF | dim 1608 : GRM188R6YA106MA73 × 2
+・Capacitor 1uF | dim 1608 : GRM188F11C105ZA01 × 1
+・Capacitor 22(or 15)pF | dim 1608 : CC0603N220J500 × 2
+・Resistor 5.1kΩ | dim 1608 : RK73B1JTTD512J × 2
+・Resistor 2.4kΩ | dim 1608 : RC0603J2K4 × 2
+・Resistor 220Ω | dim 1608 : RC0603J220R × 2
+・Resistor Array 1kΩ : BCN164AB102J7 × 1
+・Resistor Array 100Ω : BCN164AB101J7 × 1
+・Resistor Array 10kΩ : MNR04M0ABJ103 × 1
