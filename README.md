@@ -1,8 +1,16 @@
 # fub.*~
-**Foot Switch &amp; Expression Pedal MIDI interface**  
-has 4 of 6.35 jack.  
-LEFT 2 jacks | Foot Switch jack. (Dual Foot Switch is available.)  
-RIGHT 2 jacks | Expression Pedal jack.  
+**Pocket MIDI interface for Foot Switch &amp; Expression Pedal**  
+  
+Type-C :  
+> to HOST
+
+6.35 jack × 4 :  
+> LEFT 2 jacks | Foot Switch jack. (Dual Foot Switch is available.)  
+> RIGHT 2 jacks | Expression Pedal jack.
+
+DIN 5pin × 1 :  
+> MIDI OUT. This outputs MIDI datas of Foot SWs&Pedals and Note,CC,etc from Host.  
+
   
 It is using ATSAND21G18A microcom chip as core.  
 
