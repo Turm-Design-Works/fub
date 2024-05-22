@@ -37,6 +37,6 @@ It needs to install "microchip(Atmel) studio", and prepare SAM/ARM writer (e. At
 > 4: Click "Apply", 5: Click "Read"  
 > ![165-480](https://github.com/Turm-Design-Works/fub/assets/75283624/e3a22117-b892-4407-9201-8208da38410e)  
 6. Move to memories tab, program .hex firmware.
-> 1: Click "Erase now", 2: Select .hex firmware, 3: Click "Program"  
-> ![166-480](https://github.com/Turm-Design-Works/fub/assets/75283624/05dc8db6-569a-4951-8992-3f0553da26f9)  
+> 1: Click "Erase now", 2: Select .hex firmware, 3: Click "Program"
+> ![166-600](https://github.com/Turm-Design-Works/fub/assets/75283624/918db325-40c4-46b5-b3d9-e6db6de46942)  
 7. Disconnect fub.*~ and ARM writer from PC, and disconnect debug wire. Done.
