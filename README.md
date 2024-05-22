@@ -25,7 +25,7 @@ It needs to install "microchip(Atmel) studio", and prepare SAM/ARM writer (e. At
   
 1. Solder all parts.
 2. Connect fub.*~ & SAM/ARM writer to your PC.
-3. Connect ARM writer to fub.*~ PCB empty holes is marked "R V G C D" by using debug wire.
+3. Connect writer to fub.*~ PCB empty holes is marked "R V G C D" by using debug wire.  
 > R: RESET, V: VTG 3.3V, G: GND, C: SWCLK, D: SWDIO  
 > Please follow the connection of writer outputs you use.  
 > ![IMG_8499-480](https://github.com/Turm-Design-Works/fub/assets/75283624/27d6cd9a-7f3a-4b07-aff6-20a29d3e4ac2)  
