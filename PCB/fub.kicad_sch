@@ -7,7 +7,7 @@
   (title_block
     (title "fub.*~")
     (date "2024-04-18")
-    (rev "ver 1.0")
+    (rev "0.1")
     (company "Turm Design Works LLC.")
     (comment 1 "License : MIT")
   )
