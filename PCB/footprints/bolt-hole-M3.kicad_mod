@@ -1,0 +1,18 @@
+(footprint "bolt-hole-M3" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp c6ddd96f-ecb1-41f6-aa64-a5c1ef29d566)
+  )
+  (fp_text value "bolt-hole-M3" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 990af997-35ad-494e-8698-204eead6eae3)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0d271a20-74e8-4760-ba01-f57e102306c6)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.5 3.5) (drill 3.5) (layers "F&B.Cu" "*.Mask")
+    (clearance 1.75) (tstamp 64b6c8cb-811d-4fe8-9e5d-f82638485a5e))
+)
